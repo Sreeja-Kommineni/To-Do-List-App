@@ -5,3 +5,9 @@ We can write the new task in the input box and click on the "Add" button then th
 We can click on the task name to mark it as completed or incomplete task. We will add a close icon to delete the particular task from the ToDo list.
 In this JavaScript Project we are using Local Storage  that will store the task list or To Do list in your web browser, So that if you close and restart the browser then also it will display your saved To-Do List.
 
+Here is a screenshot of the project:
+
+
+
+
+
