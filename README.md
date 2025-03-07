@@ -7,7 +7,7 @@ In this JavaScript Project we are using Local Storage  that will store the task 
 
 Here is a screenshot of the project:
 
-
+https://github.com/Sreeja-Kommineni/To-Do-List-App/blob/main/images/screenshot.png
 
 
 
